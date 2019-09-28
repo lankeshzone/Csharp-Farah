@@ -10,6 +10,8 @@ namespace Csharp_Farah
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello How r u???");
         }
     }
 }
